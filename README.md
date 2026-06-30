@@ -1,4 +1,4 @@
-# Bank Backend App
+#LedgerBank-API
 
 A RESTful banking backend built with **Node.js, Express, and MongoDB**, implementing core banking primitives the way real financial systems do: an **immutable double-entry ledger**, **idempotent money transfers**, and **atomic, session-based transactions** — instead of naively updating a single "balance" field.
 
